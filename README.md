@@ -62,8 +62,8 @@ https://www.free-codecs.com/
 ``` shell
 Add-AppxPackage -Path "D:\Path\Filename.AppxBundle"
 ```
-就能安装下来了  
-![AppxManifest.xml]()
+就能安装下来了
+![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/dd28344eb779fed306157d70362d72e0.png)
 ---
 至此就结束了，希望能帮到同样用surface pro4和ltsc2019的用户  
 这也是我第一次上传github，有做得不好的地方希望大佬们多多包涵
