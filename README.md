@@ -57,6 +57,8 @@ shellAdd-AppxPackage -register .\AppxManifest.xml
 ```shell
 https://github.com/Richasy/Bili.Uwp
 ```
+
+
 ---
 另一个就是安装过后的问题。  
 安装Bibi后硬解发生黑屏现象只要安装一个HEVC就好了，当然微软商店要花7元钱不过压根就打不开  
