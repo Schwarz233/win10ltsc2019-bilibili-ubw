@@ -26,11 +26,10 @@ https://github.com/cotaku/Bibi-Release
 **如图所示**  
 ![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/5c7d0b6ac5f6b29408ee70ee755a27c0.png)  
   
-之后在文件夹运行powershell，输入
+之后在文件夹运行powershell，输入这串东西就可以了
 ``` shell
 shellAdd-AppxPackage -register .\AppxManifest.xml
 ```
-后就安装成功了  
 
 **如图**
 ![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/e119ac2a46992e82208be39c61cac9fb.png)  
