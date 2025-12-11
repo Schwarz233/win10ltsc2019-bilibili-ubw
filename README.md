@@ -1,4 +1,4 @@
-<img width="1266" height="292" alt="image" src="https://github.com/user-attachments/assets/9212aaf9-dda2-4e7b-a0ab-c637ed7b4f3f" /># win10ltsc2019-bilibili-ubw
+# win10ltsc2019-bilibili-ubw
 关于win10ltsc2019安装bilibili ubw版的问题
   
 这是我的系统版本：
@@ -18,6 +18,6 @@ https://github.com/cotaku/Bibi-Release
   
 之后在文件夹运行powershell，输入 Add-AppxPackage -register .\AppxManifest.xml 后就安装成功了  
 **如图**
-![AppxManifest.xml]()
+![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/e119ac2a46992e82208be39c61cac9fb.png)  
 
   
