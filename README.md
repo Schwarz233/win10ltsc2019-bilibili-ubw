@@ -22,10 +22,12 @@ https://github.com/cotaku/Bibi-Release
 ### 我的操作方式： 
 (1)将下载的UWP安装包改成压缩包，解压后打开文件内的AppxManifest.xml  
 (2)将TargetDeviceFamily行的MinVersion中的版本改成当前系统版本，或是10.0.10240.0之后保存  
+
 **如图所示**  
 ![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/5c7d0b6ac5f6b29408ee70ee755a27c0.png)  
   
 之后在文件夹运行powershell，输入 Add-AppxPackage -register .\AppxManifest.xml 后就安装成功了  
+
 **如图**
 ![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/e119ac2a46992e82208be39c61cac9fb.png)  
 
@@ -49,7 +51,9 @@ https://github.com/cotaku/Bibi-Release
 
 ## **4.哔哩**  
 一个已经似了好久的软件，签名只支持到2024，但是可以通过修改电脑时间来签名  
-
+```shell
+https://github.com/Richasy/Bili.Uwp
+```
 ---
 另一个就是安装过后的问题。  
 安装Bibi后硬解发生黑屏现象只要安装一个HEVC就好了，当然微软商店要花7元钱不过压根就打不开  
