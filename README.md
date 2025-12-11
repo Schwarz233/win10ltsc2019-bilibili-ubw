@@ -1,11 +1,11 @@
-# win10ltsc2019-bilibili-ubw
+<img width="1266" height="292" alt="image" src="https://github.com/user-attachments/assets/9212aaf9-dda2-4e7b-a0ab-c637ed7b4f3f" /># win10ltsc2019-bilibili-ubw
 关于win10ltsc2019安装bilibili ubw版的问题
-
+  
 这是我的系统版本：
-![win10ltsc2019](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/75d0af9ec027a44f6dfe15bc9fcb1280.png)
-
+![win10ltsc2019](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/75d0af9ec027a44f6dfe15bc9fcb1280.png)  
+  
 设备是surface pro4，由于网页版b站使用稍微有些卡顿，所以折腾了一中午这东西(
-
+  
 以下是我尝试过的几个版本的，但只有一个成功。  
 **1.Bibi-release**  
 https://github.com/cotaku/Bibi-Release  
@@ -13,4 +13,11 @@ https://github.com/cotaku/Bibi-Release
 但是尝试了通过AppxManifest.xml修改最低内部版本限制后解决了这个问题  
 我的操作方式：将下载的UWP安装包改成压缩包，解压后打开文件内的AppxManifest.xml  
 将TargetDeviceFamily行的MinVersion中的版本改成当前系统版本，或是10.0.10240.0之后保存  
-![win10ltsc2019]()
+**如图所示**  
+![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/5c7d0b6ac5f6b29408ee70ee755a27c0.png)  
+  
+之后在文件夹运行powershell，输入 Add-AppxPackage -register .\AppxManifest.xml 后就安装成功了  
+**如图**
+![AppxManifest.xml]()
+
+  
