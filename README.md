@@ -7,9 +7,13 @@
 设备是surface pro4，由于网页版b站使用稍微有些卡顿，所以折腾了一中午这东西(
   
 以下是我尝试过的几个版本的，但只有一个成功。  
-**1.Bibi-release**  
+
+---
+
+### **1.Bibi-release**  
+  
 ```shell
-git clone https://github.com/cotaku/Bibi-Release
+https://github.com/cotaku/Bibi-Release
 ```  
   
 这个是唯一成功的一个版本，因为系统内部版本为17763所以大部分安装不上  
@@ -31,7 +35,8 @@ git clone https://github.com/cotaku/Bibi-Release
   https://github.com/Richasy/Bili.Copilot
   ```
 (不得不说这个UI设计是真不错)  
-  **3.Bililite**
+ 
+### **3.Bililite**
   
   ```shell
   https://github.com/ywmoyue/biliuwp-lite
