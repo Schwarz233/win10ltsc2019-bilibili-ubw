@@ -32,7 +32,7 @@ shellAdd-AppxPackage -register .\AppxManifest.xml
 ```
 
 **如图**
-![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/e119ac2a46992e82208be39c61cac9fb.png)  
+![图片](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/e119ac2a46992e82208be39c61cac9fb.png)  
 
 ---
  以下三个是我尝试过后有各种问题安装不上的几个版本  
@@ -49,7 +49,7 @@ shellAdd-AppxPackage -register .\AppxManifest.xml
   https://github.com/ywmoyue/biliuwp-lite
   ```
 这是我遇到的问题：  
-![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/ff8234e4800b51f68f41efab5df5c136.png)  
+![图片](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/ff8234e4800b51f68f41efab5df5c136.png)  
 喂给deepseek说是缺少WinUI框架，但是我也没搞定，这就涉及到另一个问题我的surface pro4的微软商店用不了这件事（  
 
 ## **4.哔哩**  
@@ -72,7 +72,7 @@ https://www.free-codecs.com/
 Add-AppxPackage -Path "D:\Path\Filename.AppxBundle"
 ```
 
-![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/dd28344eb779fed306157d70362d72e0.png)
+![图片](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/dd28344eb779fed306157d70362d72e0.png)
 ---
 至此就结束了，希望能帮到同样用surface pro4和ltsc2019的用户  
 这也是我第一次上传github，有做得不好的地方希望大佬们多多包涵
