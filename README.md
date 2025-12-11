@@ -67,11 +67,11 @@ https://github.com/Richasy/Bili.Uwp
 https://www.free-codecs.com/
 ```
 下载后是AppxBundle文件，如果双击安装不了就直接通过文件路径打开powershell  
-之后输入并改成你自己的HEVC的文件路径  
+之后输入并改成你自己的HEVC的文件路径就能安装下来了  
 ``` shell
 Add-AppxPackage -Path "D:\Path\Filename.AppxBundle"
 ```
-就能安装下来了
+
 ![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/dd28344eb779fed306157d70362d72e0.png)
 ---
 至此就结束了，希望能帮到同样用surface pro4和ltsc2019的用户  
