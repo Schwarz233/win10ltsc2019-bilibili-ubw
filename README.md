@@ -62,7 +62,7 @@ https://github.com/Richasy/Bili.Uwp
 https://www.free-codecs.com/
 ```
 下载后是AppxBundle文件，如果双击安装不了就直接通过文件路径打开powershell  
-之后输入  
+之后输入并改成你自己的HEVC的文件路径  
 ``` shell
 Add-AppxPackage -Path "D:\Path\Filename.AppxBundle"
 ```
