@@ -2,7 +2,7 @@
 关于win10ltsc2019安装bilibili ubw版的问题
   
 这是我的系统版本：  
-![win10ltsc2019](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/75d0af9ec027a44f6dfe15bc9fcb1280.png)  
+<img width="569" height="256" alt="75d0af9ec027a44f6dfe15bc9fcb1280" src="https://github.com/user-attachments/assets/5d25acbb-6c25-454a-9f29-c415ac6fd1c6" />  
   
 设备是surface pro4，由于网页版b站使用稍微有些卡顿，所以折腾了一中午这东西(
   
