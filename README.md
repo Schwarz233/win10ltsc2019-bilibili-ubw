@@ -79,5 +79,5 @@ Add-AppxPackage -Path "D:\Path\Filename.AppxBundle"
 
 <br>
 ---
-至此就结束了，希望能帮到同样用surface pro4和ltsc2019的用户  
-这也是我第一次上传github，有做得不好的地方希望大佬们多多包涵
+至此就结束了，希望能帮到同样用surface pro4和ltsc2019的用户<br>
+这也是我第一次上传github，有做得不好的地方希望大佬们多多指点
