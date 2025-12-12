@@ -24,7 +24,8 @@ https://github.com/cotaku/Bibi-Release
 (2)将TargetDeviceFamily行的MinVersion中的版本改成当前系统版本，或是10.0.10240.0之后保存  
 
 **如图所示**  
-![AppxManifest.xml](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/5c7d0b6ac5f6b29408ee70ee755a27c0.png)  
+<img width="1862" height="1250" alt="5c7d0b6ac5f6b29408ee70ee755a27c0" src="https://github.com/user-attachments/assets/53b0f0eb-2d0e-4762-ad0a-6b5fff3125bb" />  
+
   
 之后在文件夹运行powershell，输入这串东西就可以了
 ``` shell
@@ -32,7 +33,8 @@ shellAdd-AppxPackage -register .\AppxManifest.xml
 ```
 
 **如图**
-![图片](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/e119ac2a46992e82208be39c61cac9fb.png)  
+<img width="1266" height="292" alt="e119ac2a46992e82208be39c61cac9fb" src="https://github.com/user-attachments/assets/53955c25-be95-415f-9cec-75323bf3b39f" />  
+
 
 ---
  以下三个是我尝试过后有各种问题安装不上的几个版本  
@@ -49,7 +51,8 @@ shellAdd-AppxPackage -register .\AppxManifest.xml
   https://github.com/ywmoyue/biliuwp-lite
   ```
 这是我遇到的问题：  
-![图片](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/ff8234e4800b51f68f41efab5df5c136.png)  
+<img width="865" height="288" alt="ff8234e4800b51f68f41efab5df5c136" src="https://github.com/user-attachments/assets/3d136fa7-d134-4246-9c08-54c9a887dbb5" />  
+
 喂给deepseek说是缺少WinUI框架，但是我也没搞定，这就涉及到另一个问题我的surface pro4的微软商店用不了这件事（  
 
 ## **4.哔哩**  
