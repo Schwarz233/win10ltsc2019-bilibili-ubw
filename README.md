@@ -75,7 +75,9 @@ https://www.free-codecs.com/
 Add-AppxPackage -Path "D:\Path\Filename.AppxBundle"
 ```
 
-![图片](https://github.com/Schwarz233/win10ltsc2019-bilibili-ubw/blob/main/picture/dd28344eb779fed306157d70362d72e0.png)
+<img width="1934" height="326" alt="dd28344eb779fed306157d70362d72e0" src="https://github.com/user-attachments/assets/391a76b5-744a-43dd-ac5c-709dc128bdcb" />  
+
+<dir>
 ---
 至此就结束了，希望能帮到同样用surface pro4和ltsc2019的用户  
 这也是我第一次上传github，有做得不好的地方希望大佬们多多包涵
